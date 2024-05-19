@@ -1,15 +1,18 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-color: white;
+	background-color: Snow ;
 }
 
 
 header h1{
-	color:#B61BC9;
+	color:#581845 ;
 	margin: 5px;
 	margin-bottom: 0px;
 	margin-top: 8px;
+	font-family: "Rubik Doodle Shadow", system-ui;
+
+	
 	
 }
 header{
@@ -27,6 +30,7 @@ a{
 	margin: 50px;
 	font-size: 18px;
 	color: MediumVioletRed	;
+	font-family: "Courgette", cursive;
 
 	
 }
@@ -36,7 +40,22 @@ nav{
 	border-top: 1px solid MistyRose;
 	padding: 5px;
 	background-color:Snow ;
-	
-
-	
+}
+main h2{
+	font-family: "Lobster", sans-serif;
+	color:#581845 ;
+}
+main p{
+	font-family: "Advent Pro", sans-serif;
+}
+main h3{
+	font-family: "Lobster", sans-serif;
+	color:#581845 ;
+}
+.o{
+	background-color: HoneyDew;
+}
+main img{
+	width: 400px;
+	height: 300px;
 }
