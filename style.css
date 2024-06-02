@@ -18,11 +18,16 @@ header h1{
 header{
 	text-align: center;
 	background-image: url(konf.webp);
+	position: fixed;
+	top: 0;
+	width: 100%;
+
 }
 	
 	
 header p{
   margin: 0px;
+  width: 100%;
 }
 
 a{
@@ -31,6 +36,7 @@ a{
 	font-size: 18px;
 	color: MediumVioletRed	;
 	font-family: "Courgette", cursive;
+
 
 	
 }
@@ -56,9 +62,41 @@ main h3{
 	background-color: ;
 }
 main img{
-	width: 400px;
+	width: 420px;
 	height: 300px;
+	margin: 0px 0px 0px 70px;
 }
 ul{
 	font-family: "Advent Pro", sans-serif;
+
+}
+footer{
+	background-image: url(konf.webp);
+	color: black;
+	border-top: 1px solid MistyRose;
+	padding: 0px 0px 5px 30px;
+
+}
+footer img{
+	width: 30px;
+	height: 30px;
+	margin: 10px 2px 3px 20px;
+	padding: ;
+}
+main{
+	margin: 140px 50px 20px 50px;
+}
+p{
+	width: 70%;
+}
+
+
+footer h4{
+	margin: 5px 80px 0px 20px;
+	font-family: "Lobster", sans-serif;
+}
+footer p{
+	margin:  5px 80px 0px 20px;
+	padding: 0px 0px 0px 2px;
+
 }
